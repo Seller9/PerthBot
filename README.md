@@ -1,2 +1,2 @@
-# PerthBot
-Perth Bot, a Discord bot.
+# Perth Bot
+A Discord bot.
