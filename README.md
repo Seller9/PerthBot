@@ -39,7 +39,7 @@ You can also find this information by using the =credits command.
 ### Coding
 Python: Seller9
 
-### Ideas:
+### Ideas
 Trigger Word List: Seller9, steppy145, singnstuff, Wilfred, Shiftwood, dedofspace, Ghost Dad, Syfe, FyreWeb
 
 Surprise Oil Messages: Shiftwood, Seller9
